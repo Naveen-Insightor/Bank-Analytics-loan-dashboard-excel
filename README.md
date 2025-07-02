@@ -35,6 +35,10 @@ GitHub – Version control and project hosting
 
 ✅ Business Insight Generation: Derived key metrics to assist strategic decision-making
 
+## DASHBOARD 
+![image](https://github.com/user-attachments/assets/c28840c4-c0c9-4637-89f9-2a68f7d67341)
+
+
 **📈 Key Insights / Findings**
 High Youth Participation: 18–25 age group dominates with over 23K+ loans, indicating strong penetration among younger demographics.
 
